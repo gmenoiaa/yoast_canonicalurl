@@ -1,0 +1,4 @@
+app/code/community/Yoast/CanonicalUrl                       app/code/community/Yoast/CanonicalUrl                      
+app/design/frontend/default/default/layout/canonicalurl.xml app/design/frontend/default/default/layout/canonicalurl.xml
+app/design/frontend/default/default/template/canonicalurl   app/design/frontend/default/default/template/canonicalurl  
+app/etc/modules/Yoast_CanonicalUrl.xml                      app/etc/modules/Yoast_CanonicalUrl.xml                     

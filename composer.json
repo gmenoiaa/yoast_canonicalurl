@@ -1,0 +1,11 @@
+{
+    "name": "yoast/canonicalurl",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Geiser Menoia",
+            "email": "gmenoiaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
